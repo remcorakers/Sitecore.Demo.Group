@@ -1,0 +1,27 @@
+﻿---
+ID: "07981857-0a7d-4a37-8872-1b213ed5bcb2"
+Parent: "09136565-13ff-4fa2-9266-98322d3c22db"
+Template: "c2ac843b-c82f-4263-8c52-5172550c7127"
+Path: /sitecore/content/Group/Home/Events/Bill Evans
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "21e5e8a8-3997-4964-8372-7dcf663a3b8c"
+      Hint: Title
+      Value: Bill Evans
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171124T071440Z
+    - ID: "3e892ac6-43c1-4bf0-afc0-704e17527a61"
+      Hint: Date
+      Value: 20171124T071400Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "f84a6d73-10c8-4aa1-942c-2e12de9968c7"
+      Hint: Venue
+      Value: Carnegy Hall

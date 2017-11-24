@@ -155,6 +155,9 @@
     </Content>
     <Content Include="App_Config\Security\domains.config.transform" />
     <Content Include="bower.json" />
+    <Content Include="App_Config\Include\Feature\Feature.Events.Serialization.config">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
     <None Include="compilerconfig.json" />
     <None Include="compilerconfig.json.defaults">
       <DependentUpon>compilerconfig.json</DependentUpon>
