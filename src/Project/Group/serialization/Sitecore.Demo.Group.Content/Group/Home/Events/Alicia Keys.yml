@@ -1,0 +1,49 @@
+﻿---
+ID: "07981857-0a7d-4a37-8872-1b213ed5bcb2"
+Parent: "09136565-13ff-4fa2-9266-98322d3c22db"
+Template: "c2ac843b-c82f-4263-8c52-5172550c7127"
+Path: /sitecore/content/Group/Home/Events/Alicia Keys
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "21e5e8a8-3997-4964-8372-7dcf663a3b8c"
+      Hint: Title
+      Value: Alicia Keys
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171124T071440Z
+    - ID: "3e892ac6-43c1-4bf0-afc0-704e17527a61"
+      Hint: Date
+      Value: 20171124T071400Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "ce955c15-c4a1-4b22-b57c-b5ae817584e6"
+      Hint: Description
+      Value: |
+        Alicia Keys is a 15-time Grammy&reg; Award-winning singer/songwriter/producer, an accomplished actress, a New York Times best-selling author, an entrepreneur and a powerful force in the world of philanthropy and in the global fight against HIV and AIDS.<br />
+        <br />
+        On November 4th, 2016, Keys released her powerful and critically-acclaimed new sixth studio album, HERE, on RCA Records. Offering an honest glimpse into what matters most to Keys, the artist shines a light on the sonic soulfulness and stories from New York, the city that raised her. As an accompanying visual story to HERE, Keys also released a short-film entitled &ldquo;The Gospel&rdquo; inspired by the genesis of songs written by Alicia Keys.<br />
+        <br />
+        Keys became a Coach on NBC&rsquo;s &ldquo;The Voice&rdquo; for its 11th season, alongside Miley Cyrus, Adam Levine, and Blake Shelton. Keys returned as a Coach on the hit show&rsquo;s 12th season with Gwen Stefani, Adam Levine and Blake Shelton.<br />
+        <br />
+        As a devoted and influential activist, in September 2014, Keys launched We Are Here, a movement that empowers the global community around a host of issues and initiatives building a better world where all people are heard, respected, equal, and treated with dignity.<br />
+        <br />
+        Alicia is also the co-founder of Keep a Child Alive (KCA), a non-profit organization that partners with grass-roots organizations to combat the physical, social, and economic impact of HIV on children, their families and their communities in Africa and India.<br />
+        <br />
+        Keys made her directorial debut for Lifetime&rsquo;s Five and most recently served as Executive Producer of the critically-acclaimed film The Inevitable Defeat of Mister &amp; Pete. In 2011, she made her producorial debut with Lydia R. Diamond&rsquo;s play Stick Fly for the Cort Theater, which Keys also composed the original music for.<br />
+        <br />
+        Keys currently resides in the New York City area with her husband, producer Swizz Beatz, and their children.
+    - ID: "f12c22bb-e57d-4fab-96e1-1229e4e7ff0e"
+      Hint: MapPointName
+      Value: Ziggo Dome
+    - ID: "f686ac8e-1d33-45db-8e1a-1b40cd491e7a"
+      Hint: MapPointLocation
+      Value: 52.31380479351479,4.937195777893066
+    - ID: "f84a6d73-10c8-4aa1-942c-2e12de9968c7"
+      Hint: Venue
+      Value: Ziggo Dome

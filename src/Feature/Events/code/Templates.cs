@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using Sitecore.Data;
+﻿using Sitecore.Data;
 
 namespace Sitecore.Feature.Events
 {
@@ -11,6 +7,7 @@ namespace Sitecore.Feature.Events
 		public struct Event
 		{
 			public static readonly ID ID = new ID("{320F6008-6AA5-4179-BD13-CC601228BB6F}");
+
 			public struct Fields
 			{
 				public static readonly ID Title = new ID("{21E5E8A8-3997-4964-8372-7DCF663A3B8C}");

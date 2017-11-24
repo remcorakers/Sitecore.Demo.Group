@@ -1,0 +1,18 @@
+﻿---
+ID: "002993e1-7827-47db-9fdf-f9073e2ac9c7"
+Parent: "68c57b44-a762-4354-88cf-c83e316334ea"
+Template: "99f8905d-4a87-4eb8-9f8b-a9bebfb3add6"
+Path: /sitecore/layout/Renderings/Feature/Events/Venue
+DB: master
+SharedFields:
+- ID: "51b435bc-f7b9-478a-9c51-52916af96ff5"
+  Hint: Path
+  Value: /views/events/venue.cshtml
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171124T081449Z
